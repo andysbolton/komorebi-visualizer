@@ -1,6 +1,6 @@
 # komorebi-visualizer
 
-Console application for [Komorebi](https://github.com/LGUG2Z/komorebi) that shows what monitor, workspace, and container is currently selected, made to get my head around how Komorebi works.
+Console application for [komorebi](https://github.com/LGUG2Z/komorebi) that shows what monitor, workspace, and container is currently selected, made to get my head around how komorebi works.
 
 ![console](./img/snip.png)
 
