@@ -4,6 +4,7 @@ Console application for Komorebi that shows what monitor, workspace, and contain
 
 ![console](./img/snip.png)
 
+To run and subscribe to the named pipe:
 ```csharp
 dotnet run
 komorebic subscribe komorebi-pipe
